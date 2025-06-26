@@ -82,3 +82,5 @@ print( "Hola " + name2)
 
 numero = int(input("ingresa un numero "))
 print("El numero que elegiste fue: " + str(numero))
+
+
