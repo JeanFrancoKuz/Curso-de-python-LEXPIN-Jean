@@ -66,4 +66,19 @@ mensaje="holamundo"
 name, lastname, age="jean","kuzniar",23
 
 #pintar en consola
+"""
 print (name,lastname,age,mensaje)
+"""
+
+#Entrada de datos por consola
+"""
+input() #Nos permite perdirle datos al usuario por consola, es decir permite la entrada de datos a mi aplicacion
+"""
+
+name2= input("Escribe tu nombre ")
+print( "Hola " + name2)
+
+#Para ingresar un numero se utiliza INT
+
+numero = int(input("ingresa un numero "))
+print("El numero que elegiste fue: " + str(numero))
