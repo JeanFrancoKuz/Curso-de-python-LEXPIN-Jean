@@ -57,7 +57,7 @@ elif opcion ==6:
   Num1 = int(input("Escribe el numero que quiera para realizar la operacion "));
   Num2 = int(input("Escribe el numero que quiera para realizar la operacion "));
   potenciacion=Num1**Num2;
-  print(F"Este seria el resultado de la Porenciacion:{potenciacion}")
+  print(F"Este seria el resultado de la Potenciacion:{potenciacion}")
 elif opcion==7:
   print("Hasta luego chamo")
 else:
