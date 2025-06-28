@@ -1,5 +1,4 @@
-#Concadenar
-#Se refiere a unir dos o mas cadenas de texto por medio del operador +
+#Concadenar Se refiere a unir dos o mas cadenas de texto por medio del operador +
 
 textone = "HOLA";
 

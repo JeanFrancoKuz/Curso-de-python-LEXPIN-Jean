@@ -28,7 +28,7 @@ if opcion ==1:
   Num1 = int(input("Escribe el numero que quiera para realizar la operacion "));
   Num2 = int(input("Escribe el numero que quiera para realizar la operacion "));
   suma=Num1+Num2;
-  print("Este seria el resultado de la suma {suma}")
+  print(f"Este seria el resultado de la suma {suma}")
 elif opcion ==2:
   Num1 = int(input("Escribe el numero que quiera para realizar la operacion "));
   Num2 = int(input("Escribe el numero que quiera para realizar la operacion "));
