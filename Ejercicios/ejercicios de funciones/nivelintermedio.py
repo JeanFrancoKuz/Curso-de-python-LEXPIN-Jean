@@ -11,7 +11,7 @@ Crea una lambda que reciba un número y retorne:
 "Negativo" si es menor que 0.
 "Cero" si es igual a 0.
 
-3)
+3) No se puede hacer con lambda debido a que son muchos cacos 
 Lambda con match-case:
 Crea una lambda que reciba una letra (minúscula) y usando match-case retorne:
 "Vocal" si es 'a', 'e', 'i', 'o', 'u'.

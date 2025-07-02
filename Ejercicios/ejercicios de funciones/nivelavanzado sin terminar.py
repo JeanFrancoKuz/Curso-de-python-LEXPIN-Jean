@@ -18,3 +18,6 @@ Crea una función clasificar_persona(edad, callback) que use un callback para re
 "Adolescente" si está entre 13 y 17.
 "Adulto" si es >= 18.
 """
+
+#Callback simple: Crea una función operacion(a, b, callback) que aplique el callback a los valores a y b (Por ejemplo que los sume)
+
