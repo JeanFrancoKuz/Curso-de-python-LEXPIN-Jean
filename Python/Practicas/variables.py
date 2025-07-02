@@ -15,6 +15,8 @@ name1 = "Jean"
 
 #Numeros enteros (Datos enteros)
 
+
+
 age1 = 23
 
 #Numeros flotantes (Datos con decimales)
