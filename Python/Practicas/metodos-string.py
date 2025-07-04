@@ -55,4 +55,25 @@ print(my_super_text_awesome)
 
 #join() une los elementos de una lista (array) en un solo string separados por un caracter
 
+#join() une los elementos de una lista (array) en un solo string, separados por un caracter
+
+my_words_list = ["Hola", "mundo", "estamos", "aqui", "felices", "aprendiendo", "Python", "en", "Lexpin"]
+
+my_super_awesome_text = " ".join(my_words_list)
+
+print(my_super_awesome_text)
+
+
+#starswith() devuelve True si el string empieza con la subcadena indicada
+
+my_super_awesome_text = "Hola mundo, estamos aqui felices, aprendiendo Python, en Lexpin"
+
+print(my_super_awesome_text.startswith("Hola"))
+
+
+#endswith() devuelve True si el string termina con la subcadena indicada
+
+my_super_awesome_text = "Hola mundo, estamos aqui felices, aprendiendo Python, en Lexpin"
+
+print(my_super_awesome_text.endswith("Patata"))
 
