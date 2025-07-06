@@ -37,9 +37,9 @@ print(f"El usuario se encuentra  {user_status}")
 
 #split() divide mi string en una lista
 
-my_super_text = "Hola mundo, estamos aqui felices aprendiendo python, en Lexpin"
+my_super_text = "Python es divertido "
 
-my_world_list =my_super_text.split(",")
+my_world_list =my_super_text.split(" ")
 
 print(my_world_list)
 

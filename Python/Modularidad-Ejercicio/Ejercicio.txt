@@ -1,0 +1,43 @@
+
+Ejercicio: Sistema de Análisis de Texto Modular  
+
+Enunciado  
+Crea un sistema modular para analizar textos que incluya:  
+
+1. *Clase AnalizadorTexto* con:  
+   - Atributos de instancia:  
+     - texto_original (str): Texto original proporcionado.  
+     - nombre_analisis (str): Nombre personalizado para el análisis (valor por defecto: "General").  
+   - Atributo de clase:  
+     - contador_analisis (int): Cuenta total de instancias creadas.  
+
+   - Métodos:  
+     - __init__(self, texto, nombre_analisis="General"): Inicializa los atributos y actualiza contador_analisis.  
+
+     - texto_limpio(self) -> str: Devuelve el texto sin signos de puntuación ni mayúsculas (usar métodos de strings).  
+
+     - estadisticas_basicas(self) -> tuple: Retorna una tupla con:  
+       (núm_palabras, palabra_más_larga, longitud_promedio_palabras).  
+     - frecuencia_palabras(self) -> dict: Devuelve un diccionario {palabra: frecuencia}.  
+     
+     - palabras_relevantes(self, umbral=3) -> list: Lista de palabras con frecuencia mayor o igual a umbral (ordenada alfabéticamente).  
+
+2. Funciones generales (fuera de la clase):  
+   - limpiar_palabra(palabra: str) -> str:  
+     Elimina signos de puntuación y convierte a minúsculas (usar strip(), lower() y manejo de excepciones).  
+   - filtrar_por_longitud(lista: list, func_condicion: callable) -> list:  
+     Filtra palabras usando una función de condición (función de orden superior).  
+
+3. Funcionalidades con estructuras de datos:  
+   - Tuplas: Resultados de estadisticas_basicas().  
+   - Listas: Manipulación de palabras en palabras_relevantes() y filtrar_por_longitud().  
+   - Diccionarios: Conteo de frecuencias en frecuencia_palabras().  
+
+4. Programa principal:  
+   - Crea dos instancias de AnalizadorTexto con textos diferentes.  
+   - Usa filtrar_por_longitud para obtener palabras con más de 5 caracteres del primer análisis.  
+   - Imprime:  
+     - Texto limpio de cada instancia.  
+     - Estadísticas básicas y frecuencias de palabras.  
+     - Palabras relevantes (umbral=2) y palabras filtradas por longitud.  
+     - Valor actual de contador_analisis.
