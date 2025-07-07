@@ -13,7 +13,7 @@ class Person:
     #Atributos dinamicos de clase
     self.name = name
     self.age = age
-    self.country = country
+    self.country=country
     
   #Podemos tener metodos dentro de una clase, estos son funciones que pertenecen a la clase
     

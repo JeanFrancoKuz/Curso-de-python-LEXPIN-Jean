@@ -6,7 +6,7 @@ Crea un sistema modular para analizar textos que incluya:
 
 1. *Clase AnalizadorTexto* con:  
    - Atributos de instancia:  
-     - texto_original (str): Texto original proporcionado.  
+    - texto_original (str): Texto original proporcionado.  
      - nombre_analisis (str): Nombre personalizado para el análisis (valor por defecto: "General").  
    - Atributo de clase:  
      - contador_analisis (int): Cuenta total de instancias creadas.  
@@ -18,8 +18,9 @@ Crea un sistema modular para analizar textos que incluya:
 
      - estadisticas_basicas(self) -> tuple: Retorna una tupla con:  
        (núm_palabras, palabra_más_larga, longitud_promedio_palabras).  
+
      - frecuencia_palabras(self) -> dict: Devuelve un diccionario {palabra: frecuencia}.  
-     
+
      - palabras_relevantes(self, umbral=3) -> list: Lista de palabras con frecuencia mayor o igual a umbral (ordenada alfabéticamente).  
 
 2. Funciones generales (fuera de la clase):  
@@ -40,4 +41,4 @@ Crea un sistema modular para analizar textos que incluya:
      - Texto limpio de cada instancia.  
      - Estadísticas básicas y frecuencias de palabras.  
      - Palabras relevantes (umbral=2) y palabras filtradas por longitud.  
-     - Valor actual de contador_analisis.
+     - Valor actual de de contador_analisis.
