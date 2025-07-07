@@ -8,13 +8,6 @@ def limpiar_palabra(palabra: str) -> str:
     except AttributeError:
         return ""
     
-def filtrar_por_longitud(lista: list, func_condicion: callable) -> list:
-    resultado = []
-    for palabra in lista:
-        if func_condicion(palabra):
-            resultado.append(palabra)
-    return resultado
-    
 class Analizador_de_texto:
   contador_analisis=0
 
