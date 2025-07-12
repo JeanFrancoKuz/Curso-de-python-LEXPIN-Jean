@@ -1,0 +1,70 @@
+Date: 11/7/2025
+Time: 20:32
+Phone Number: +584242653244
+Message: Mensaje de prueba desde el visual studio
+--------------------
+Date: 11/7/2025
+Time: 20:33
+Phone Number: +584242653244
+Message: Mensaje de prueba desde el visual studio
+--------------------
+Date: 11/7/2025
+Time: 20:35
+Phone Number: +584242653244
+Message: Mensaje de prueba desde el visual studio
+--------------------
+Date: 11/7/2025
+Time: 20:36
+Phone Number: +584141175100
+Message: Mensaje de prueba desde el visual studio
+--------------------
+Date: 11/7/2025
+Time: 20:40
+Group ID: Curso online de Python (confirmados)
+Message: Mensaje desde el visual
+--------------------
+Date: 11/7/2025
+Time: 20:42
+Phone Number: +584242653244
+Message: Mensaje de prueba desde el visual studio
+--------------------
+Date: 11/7/2025
+Time: 20:49
+Group ID: G0yGFH508uzBMv6Y3irJX3
+Message: Mensaje desde el viual studio
+--------------------
+Date: 11/7/2025
+Time: 20:50
+Phone Number: +584242653244
+Message: Mensaje de prueba desde el visual studio
+--------------------
+Date: 11/7/2025
+Time: 20:50
+Group ID: G0yGFH508uzBMv6Y3irJX3
+Message: Mensaje desde el viual studio
+--------------------
+Date: 11/7/2025
+Time: 20:52
+Phone Number: +584126794556
+Message: Mensaje de prueba, que cool que el mensaje se escriba y lo pueda ver
+--------------------
+Date: 11/7/2025
+Time: 20:55
+Group ID: GjtWD6Qc9Td1KJTJZnz7MZ
+Message: Mensaje de prueba, que cool que el mensaje se escriba y lo pueda ver
+--------------------
+Date: 11/7/2025
+Time: 20:59
+Group ID: G0yGFH508uzBMv6Y3irJX3
+Message: a Frahiner le mide como a un gorila
+--------------------
+Date: 11/7/2025
+Time: 21:4
+Group ID: GjtWD6Qc9Td1KJTJZnz7MZ
+Message: Hola estamos practicando envio aumatico de mensajes dependiendo la hora pd:JFK
+--------------------
+Date: 11/7/2025
+Time: 21:8
+Group ID: GjtWD6Qc9Td1KJTJZnz7MZ
+Message: Hola estamos practicando envio aumatico de mensajes dependiendo la hora pd:JFK
+--------------------
