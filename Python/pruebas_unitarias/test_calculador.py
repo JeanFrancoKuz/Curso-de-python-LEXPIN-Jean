@@ -21,16 +21,35 @@ def test_sum(num1,num2,expected_result):
   assert sum(num1,num2) == expected_result
 
 
+@pytest.mark.parametrize("num1,num2,expected_result", [
+    (1, 1, 0),
+    (-2, -3, 1),
+    (3, 0, 3),
+    (4, 4, 0),
+    (-15, 5, -20),
+])
+
 def test_rest(num1,num2,expected_result):
   assert rest(num1,num2) == expected_result
 
-
+@pytest.mark.parametrize("num1,num2,expected_result", [
+    (1, 1, 1),
+    (-2, -3, 6),
+    (3, 0, 0),
+    (4, 4, 16),
+    (-15, 5, -75),
+])
 #pruebas parametrizadas para la multiplicacion
-# def test_multiply(num1,num2,expected_result):
-#   assert multiply(num1,num2) == expected_result
+def test_multiply(num1,num2,expected_result):
+  assert multiply(num1,num2) == expected_result
 
-# def test_divide(num1,num2,expected_result):
-#   with pytest.raises(ValueError):
-#     assert divide(num1,num2) == expected_result
+@pytest.mark.parametrize("num1,num2,expected_result", [
+    (4, 2, 2),
+    (9, 3, 3),
+    (-15, 5, -3),
+])
+def test_divide(num1,num2,expected_result):
+  with pytest.raises(ValueError):
+    assert divide(num1,num2) == expected_result
 
 

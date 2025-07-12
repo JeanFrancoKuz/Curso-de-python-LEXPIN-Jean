@@ -17,6 +17,8 @@ Copiador de archivos: Crea un programa que copie el contenido de origen.txt en u
 5)
 Contador de palabras: Cuenta cuántas veces aparece la palabra "Python" en un archivo creado por ustedes llamado documento.txt.  ( Pista: Deben usar condicionales, el método split() y el método count()
 
+
+
 PARTE 2
 
 Archivos CSV 
