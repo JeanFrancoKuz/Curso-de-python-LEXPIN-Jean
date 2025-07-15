@@ -68,3 +68,9 @@ Time: 21:8
 Group ID: GjtWD6Qc9Td1KJTJZnz7MZ
 Message: Hola estamos practicando envio aumatico de mensajes dependiendo la hora pd:JFK
 --------------------
+Date: 11/7/2025
+Time: 21:25
+Group ID: GjtWD6Qc9Td1KJTJZnz7MZ
+Image: ./Python/Teoria_Parte2/cinemark.png
+Caption: Imagen enviada de prueba
+--------------------

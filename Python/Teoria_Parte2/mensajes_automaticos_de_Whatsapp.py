@@ -15,4 +15,6 @@ Enviar mensajes a los grupos de manera immediata se necesita el ID del grupo o e
 #ws.sendwhatmsg_to_group("GjtWD6Qc9Td1KJTJZnz7MZ","Hola estamos practicando envio aumatico de mensajes dependiendo la hora pd:JFK",21,9)
 
 """Enviar imagenes"""
-ws.sendwhats_image("GjtWD6Qc9Td1KJTJZnz7MZ","./Teoria_Parte2/cinemark.png","Imagen enviada de prueba")
+ws.sendwhats_image("GjtWD6Qc9Td1KJTJZnz7MZ","./Python/Teoria_Parte2/cinemark.png","Imagen enviada de prueba")
+
+
