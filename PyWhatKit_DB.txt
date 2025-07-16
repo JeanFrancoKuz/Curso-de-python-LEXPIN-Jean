@@ -74,3 +74,15 @@ Group ID: GjtWD6Qc9Td1KJTJZnz7MZ
 Image: ./Python/Teoria_Parte2/cinemark.png
 Caption: Imagen enviada de prueba
 --------------------
+Date: 15/7/2025
+Time: 17:43
+Phone Number: +584123971034
+Image: ./Python/Teoria_Parte2/Mensajes_WHATSAPP/cinemark.png
+Caption: Imagen enviada de prueba
+--------------------
+Date: 15/7/2025
+Time: 17:45
+Phone Number: +584123971034
+Image: ./Python/Teoria_Parte2/Mensajes_WHATSAPP/cinemark.png
+Caption: Imagen enviada de prueba
+--------------------
