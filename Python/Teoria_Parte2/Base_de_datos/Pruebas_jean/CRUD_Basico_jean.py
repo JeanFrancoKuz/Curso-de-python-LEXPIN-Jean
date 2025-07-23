@@ -12,7 +12,7 @@
 import sqlite3
 #Establecer la conexion a mi base de datos
 
-conn = sqlite3.connect("./Python/Teoria_Parte2/Base_de_datos/Ejemplo_de_base_de_datos.db")
+conn = sqlite3.connect("./Python/Teoria_Parte2/Base_de_datos/Pruebas_jean/Ejemplo_de_base_de_datos.db")
 
 #necesitamos llamar a un cursor, que nos permite manipular la base de datos a la que nos conectamos
 
